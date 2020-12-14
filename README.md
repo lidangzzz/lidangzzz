@@ -1,16 +1,35 @@
-### Hi there 👋
+# I created...
 
-<!--
-**lidangzzz/lidangzzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hedgehog Computing [https://github.com/Hedgehog-Computing](https://github.com/Hedgehog-Computing)
 
-Here are some ideas to get you started:
+An organization that contains several repo related to Hedgehog Lab
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Hedgehog Lab [https://github.com/Hedgehog-Computing/hedgehog-lab](https://github.com/Hedgehog-Computing/hedgehog-lab)
+
+I'm trying to design an open source scientific computing environment for JavaScript that running, compiling and executing JavaScript for Scientific Computing and Data Visualization **TOTALLY TOTALLY TOTALLY in your BROWSER!** Here are some great features:
+
+- Matrix operations, operator overloads (with Babeljs plugin support)
+
+- GPU acceleration in browser with WebGL2
+
+- TeX and Markdown
+
+- Data visualization with Plotly.js and D3js
+
+- Symbolic computing (with Nerdamer)
+
+- A very easy to use Package Manager
+
+Try it now at [hedgehog-lab.github.io](hedgehog-lab.github.io)
+
+### Hedgehog Book [https://github.com/lidangzzz/Hedgehog-Lab-Tutorial](https://github.com/lidangzzz/Hedgehog-Lab-Tutorial)
+
+An interactive book that introduces features with examples. Here is a chapter for demo: [https://hedgehog-book.github.io/tutorials/matrix-operations.html](https://hedgehog-book.github.io/tutorials/matrix-operations.html)
+
+### Hedgehog Package Manager [https://github.com/Hedgehog-Computing/Hedgehog-Package-Manager](https://github.com/Hedgehog-Computing/Hedgehog-Package-Manager)
+
+A package manager that allows user to import any package/module/function without installation or configuration, with only one line at beginning:
+
+```js
+*import My_Package: Function_A, Function_B, Class_C, Variable_D
+```
