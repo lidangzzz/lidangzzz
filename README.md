@@ -34,5 +34,3 @@ A package manager that allows user to import any package/module/function without
 *import My_Package: Function_A, Function_B, Class_C, Variable_D
 ```
 
-![github stats](https://github-readme-stats.vercel.app/api?username=hedgehog-computing&count_private=true&show_icons=true&theme=default)
-
