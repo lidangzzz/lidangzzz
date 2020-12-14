@@ -10,7 +10,7 @@ I'm trying to design an open source scientific computing environment for JavaScr
 
 - Matrix operations, operator overloads (with Babeljs plugin support)
 
-- GPU acceleration in browser with WebGL2
+- Cross-platform GPU acceleration in browser with WebGL2
 
 - TeX and Markdown
 
@@ -18,7 +18,7 @@ I'm trying to design an open source scientific computing environment for JavaScr
 
 - Symbolic computing (with Nerdamer)
 
-- A very easy to use Package Manager
+- A very easy-to-use Package Manager
 
 Try it now at [hedgehog-lab.github.io](hedgehog-lab.github.io)
 
