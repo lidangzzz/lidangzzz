@@ -16,7 +16,7 @@ I created...
 
   - A very easy-to-use Package Manager
 
-Try it now at [hedgehog-lab.github.io](hedgehog-lab.github.io)
+Try it now at [https://hedgehog-lab.github.io](https://hedgehog-lab.github.io)
 
 **3. Hedgehog Book [https://github.com/lidangzzz/Hedgehog-Lab-Tutorial](https://github.com/lidangzzz/Hedgehog-Lab-Tutorial)** - An interactive book that introduces features with examples. Here is a chapter for demo: [https://hedgehog-book.github.io/tutorials/matrix-operations.html](https://hedgehog-book.github.io/tutorials/matrix-operations.html)
 
